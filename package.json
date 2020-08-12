@@ -1,27 +1,24 @@
 {
-  "name": "react_maximilian",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/billyshearson/react_maximilian.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/billyshearson/react_maximilian/issues"
-  },
-  "homepage": "https://github.com/billyshearson/react_maximilian#readme",
-  "devDependencies": {
-    "react": "^16.13.1",
-    "ts-loader": "^8.0.2",
-    "typescript": "^3.9.7",
-    "webpack": "^4.44.1",
-    "webpack-cli": "^3.3.12",
-    "webpack-dev-server": "^3.11.0"
-  }
+    "name": "react_maximilian",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/billyshearson/react_maximilian.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/billyshearson/react_maximilian/issues"
+    },
+    "homepage": "https://github.com/billyshearson/react_maximilian#readme",
+    "devDependencies": {
+        "react": "^16.13.1",
+        "ts-loader": "^8.0.2",
+        "typescript": "^3.9.7"
+    }
 }
